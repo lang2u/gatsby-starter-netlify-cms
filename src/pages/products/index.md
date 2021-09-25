@@ -72,7 +72,7 @@ main:
     ▶ 해외거주 기간 10년
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/image1.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
